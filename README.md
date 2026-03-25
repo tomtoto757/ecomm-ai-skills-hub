@@ -3,7 +3,7 @@
 精心整理的电商 AI 技能文件集合仓库，方便浏览、复用与后续持续整理。
 
 🌟 整了个discord群，如果你也感兴趣电商龙虾养殖，欢迎加入！🐝
-https://discord.gg/xpqghk9gVx
+https://discord.gg/yYjYQzjZf8
 
 ## 仓库内容
 
