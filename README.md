@@ -2,8 +2,14 @@
 
 精心整理的电商 AI 技能文件集合仓库，方便浏览、复用与后续持续整理。
 
-🌟 整了个discord群，如果你也感兴趣电商龙虾养殖，欢迎加入！🐝
-https://discord.gg/yYjYQzjZf8
+## 社区 / 交流
+
+这个仓库也是我持续探索 AI + 电商运营、自动化工作流与实用工具的一部分。
+
+如果你也对这个方向感兴趣，想交流想法、分享工作流，
+或者讨论相关工具、技能和智能体，欢迎交流。
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/yYjYQzjZf8)
 
 ## 仓库内容
 
